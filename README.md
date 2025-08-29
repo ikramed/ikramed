@@ -18,12 +18,6 @@ Currently learning and building projects while exploring **Git, GitHub, and coll
 
 
 ---
-### 🦈 Pull Shark Achievements
-Here are some of my merged Pull Requests:
-
-- 🟢 [m-portfolio#3](https://github.com/ikramed/m-portfolio/pull/3) · Merged on Aug 5
-- 🟢 [homepage#8](https://github.com/ikramed/homepage/pull/8) · Merged on Jul 20
-- 🟢 [swiggy-partner#2](https://github.com/ikramed/swiggy-partner/pull/2) · Merged on Jun 15
 
 
 
