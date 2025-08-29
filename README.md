@@ -26,6 +26,10 @@ Currently learning and building projects while exploring **Git, GitHub, and coll
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+### 🏆 GitHub Achievements
+
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ikramed&theme=radical)](https://github.com/ikramed)
+
 
 ## 📫 Contact Me
 
