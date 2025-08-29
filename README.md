@@ -19,8 +19,7 @@ Currently learning and building projects while exploring **Git, GitHub, and coll
 
 ---
 
-### 🦈 Pull Shark
-- [AbdalrahmanEmara/3la-Fein#16](https://github.com/AbdalrahmanEmara/3la-Fein/pull/16) · 2nd pull request merged (Unlocked on Aug 5)
+
 
 ## 📫 Contact Me
 
