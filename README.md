@@ -19,6 +19,14 @@ Currently learning and building projects while exploring **Git, GitHub, and coll
 
 ---
 
+### 🏆 Achievements
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
 ## 📫 Contact Me
 
 - LinkedIn: [Ikram Eddahby](https://www.linkedin.com/in/ikram-eddahby/)  
