@@ -19,7 +19,8 @@ Currently learning and building projects while exploring **Git, GitHub, and coll
 
 ---
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ikramed&theme=radical)](https://github.com/ikramed)
+### 🦈 Pull Shark
+- [AbdalrahmanEmara/3la-Fein#16](https://github.com/AbdalrahmanEmara/3la-Fein/pull/16) · 2nd pull request merged (Unlocked on Aug 5)
 
 ## 📫 Contact Me
 
